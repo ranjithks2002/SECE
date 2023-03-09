@@ -1,0 +1,18 @@
+RESTAURANT WEBSITE IN JAVASCRIPT
+
+
+**Developed By Michael - mding5692**
+
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+
+
+#THANK YOU FOR DOWNLOADING
